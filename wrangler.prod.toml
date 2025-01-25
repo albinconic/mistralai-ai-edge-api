@@ -1,0 +1,7 @@
+name = "mistralai-ai-edge-api"
+main = "src/index.js"
+compatibility_date = "2025-01-12"
+account_id = "f009a0d19d660fc5381775bd699bcfcf"
+
+[observability.logs]
+enabled = true
