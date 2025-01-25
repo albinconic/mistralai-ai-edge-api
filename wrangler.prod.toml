@@ -5,3 +5,6 @@ account_id = "f009a0d19d660fc5381775bd699bcfcf"
 
 [observability.logs]
 enabled = true
+
+[vars]
+API_URL = "https://api-mistralai-ai.conicfy.com"
